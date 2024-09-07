@@ -1,0 +1,118 @@
+/* h1 {
+    color: crimson;
+}
+
+h1:hover {
+    color: blue;
+    font-size: 80px;
+}
+
+a:visited {
+    color: yellow;
+}
+
+p:nth-child(2)::first-line {
+    color: brown;
+} */
+/* 
+
+
+
+@media (max-width: 700px) {
+    body {
+        background-color: orange;
+    }
+}
+
+
+
+@media (min-width: 200px) and (max-width: 480px) {
+    body {
+        background-color: green;
+    }
+}
+
+ */
+
+
+
+
+* {
+    border: 1px solid black;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    /* font-family: "Montserrat"; */
+}
+/* 
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; 
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.grid-container header {
+    grid-column: 1 / 4;
+    grid-column: 1 / span 1;
+    grid-row: 1 / span 2;
+    height: 100px;
+}
+.grid-container .nav {
+    grid-column: 1 / span 3;
+    height: 400px;
+} */
+/* 
+.grid-container footer {
+    grid-columN: 2 / span 2; */
+/* } */
+
+
+
+
+
+
+
+
+
+
+
+.box {
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    margin: 10px;
+    border: 1px solid skyblue;
+}
+
+.main {
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    /* flex-direction: column; */
+    /* justify-content: center; */
+    /* align-items: ; */
+    /* position: relative; */
+}
+
+.box:nth-child(3) {
+    background-color: yellow;
+    order: 1;
+}
+
+.box:nth-child(1) {
+    order: 2;
+}
+
+
+/* .box:nth-child(2) {
+    background-color: yellow;
+    width: 10px;
+    height: 100px;
+    position: absolute;
+    top: 20px; 
+    left: 200px;
+} */
+.btn-maaaz {
+    padding: 10px;
+}
