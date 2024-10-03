@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: whitesmoke;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #151515;
+    flex-direction: column;
+}
+
+.main h1{
+    font-size: 3em;
+    margin-bottom: 1em;
+}
+
+.account-list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
