@@ -1,0 +1,17 @@
+- Activity
+
+Run: npm create vite@latest my-react-app -- --template react
+
+- Pair Programming
+    - Driver
+    - Navigator
+
+React:
+    - components
+    - is a library 
+    - virtual dom
+    - we use JSX
+    - explore vite
+
+
+    
