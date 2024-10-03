@@ -1,0 +1,25 @@
+psuedo elements
+    - p.intro:first-letter
+    - visited
+    - hover
+    - link
+    - active
+
+position:
+    - relative
+    - absolute
+    - fixed
+    - z-index
+
+- media queries
+
+-grid
+-flexbox
+
+
+- frameworks/libraries
+    - bootsrap
+    - material ui
+    - tailwind
+
+start js

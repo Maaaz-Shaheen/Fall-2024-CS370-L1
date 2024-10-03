@@ -1,0 +1,13 @@
+div {
+    height: 100px;
+    width: 100px;
+    background: blue
+  };
+
+@media only screen and (max-width: 200px){
+  div {
+    height: 100px;
+    width: 100px;
+    background: red
+  }
+}

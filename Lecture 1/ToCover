@@ -1,0 +1,32 @@
+
+    - attribute
+    - how to see a page source
+    - html, body, head, title
+    - headings 
+    - paragraphs
+    - a tag
+        - absolute link
+        - relative url
+            - ../ example
+        - href="mailto:"
+        -target="_blank"
+        - href="#id"
+            - href to id in another page
+    - ol, ul, li
+    - nested lists
+    - img
+        - src
+        - alt
+        - title (for hovering)
+        - width
+        - height 
+    - <!DOCTYPE html>
+    - <!--- Comments   -->
+    - global attributes
+        - id attribute
+            - unique
+        - class
+    - div, span
+
+    - whitespace collapsing
+

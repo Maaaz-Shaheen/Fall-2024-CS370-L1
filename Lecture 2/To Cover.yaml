@@ -1,0 +1,154 @@
+To Cover:
+
+- forms
+    - form controls
+    - input type = text
+        - name
+        - maxlength
+    -input type password
+    - textarea
+    - radio
+    - checkbox
+    - select
+        - option
+    - file
+    - required = True
+    - type date
+    - type email
+    - type url
+
+
+- show portfolio
+- show inspect element
+- Learn a rule
+    - parts of a rule
+        - selecter <tag>
+        - declaration {}
+            - property
+            - value
+- linking CSS (head)
+    - external
+        - link tag
+            - href
+            - type
+            - rel 
+    - internal
+        - style tag
+    - inline
+
+            
+- CSS
+    - Cascading Style Sheets
+    - imagine everything has a box around it
+        - think inside the box
+        - box model
+    - block and inline
+
+- different options for rules
+
+- can have multiple selectors
+- can have multiple declarations
+
+
+Selectors:
+- universal selector
+- type selector - tag as a selector
+- class as a selector (.)
+- id as a selector (#)
+
+- child selector (>)
+- descendant selector (space)
+- adjacent selector h1+p
+- general sibling selector h1~p
+- word of caution for different browsers
+- Cascading rules 
+    - Last rule
+    - specificity
+- colors
+    - color: color of text
+        - different color values
+    - background color
+
+- !important
+- inheritance
+    - font-family
+    - border
+    - background color  
+
+
+- opacity
+- write general css
+- specifiy down the line
+
+- make a rainbow
+    - using color and css
+    - rgba, hex, names
+
+- font-family
+# body {
+#         font-family: Georgia, Times, serif;}
+#       h1, h2 {
+#         font-family: Arial, Verdana, sans-serif;}
+#       .credits {
+#         font-family: "Courier New", Courier,
+# monospace;}
+
+- font-size
+    - px
+    - %
+    - em
+    - default is 16
+
+text-decoration: underline;
+    - overline
+    - linethrough
+
+- line height
+- text-align
+- vertical-align
+
+
+
+- boxes
+
+    - width 
+    - height
+    - min-width
+    - max-width
+    - overflow
+        - hidden
+        - scroll
+    - padding
+    - margin
+
+    - border
+        - width
+        - style 
+        - color
+        - shorthand
+    - width and padding add up
+    - padding: top left bottom right 
+    - padding: rl tb;
+
+- Centering a box:
+    - margin-left: auto;
+    - margin-right: auto;
+    - width: 100px;
+
+- display:
+    - inline
+    - block
+    - inline block
+    - none
+
+- border radius
+
+ol list
+    - list style type
+        - decimal-leading-zero
+        - lower-roman
+
+
+- design a button to be in the center of the screen
+    - don't use flexbox or grid  
+
