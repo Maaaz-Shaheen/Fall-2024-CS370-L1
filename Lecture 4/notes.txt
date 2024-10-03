@@ -1,0 +1,28 @@
+- Media query clarity
+
+- activity
+
+- DOM manipulation
+
+myInput.addEventListener('input', function() {
+});
+
+
+Element.getElementsByClassName()
+Element.getElementById()
+
+Element.getElementsByTagName()
+
+querySeelctor 
+
+innerHTML vs innerText
+
+appendChild vs append
+
+Element.hasAttribute()
+set an element as disabled
+
+
+remove
+
+append child
